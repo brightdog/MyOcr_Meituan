@@ -1,0 +1,16 @@
+[History]
+B0=MyOCR_Meituan/frmOcr/StartOCR
+B1=MyOCR_Meituan/frmOcr/Form_Load
+B2=MyOCR_Meituan/modOCR/getOCRResult
+B3=MyOCR_Meituan/modFilterColor/FilterBackGround
+B4=MyOCR_Meituan/modSplitImg/horizontalSplitImg
+B5=MyOCR_Meituan/modCommon/JoinRawData
+B6=MyOCR_Meituan/modSplitImg/verticalSplitImg
+B7=MyOCR_Meituan/modOCR/PreOcr
+B8=MyOCR_Meituan/frmOcr/LoadPic
+B9=MyOCR_Meituan/frmOcr/cmdOCR_Click
+B10=MyOCR_Meituan/modLoadOCRES/LoadOCRES
+B11=MyOCR_Meituan/frmOcr/cmdOpenPicture_Click
+B12=MyOCR_Meituan/frmOcr/chkNeedOutput_Click
+B13=MyOCR_Meituan/frmOcr
+B14=MyOCR_Meituan/modCommon/parseResultToJson
